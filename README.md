@@ -31,7 +31,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-The Support group can be reached out to at [Programmer • Support](https://telegram.dog/https://t.me/lucifer_hell_for_you) Or [Tsunade Support (Github)](https://https://github.com/Yasuauau/TSUNADE_MANAGEMENT/discussions/15), where you can ask for help about [NekoRobot](https://telegram.dog/NekoCuteBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Programmer • Support](https://t.me/lucifer_hell_for_you) Or [Tsunade Support (Github)](https://https://github.com/Yasuauau/TSUNADE_MANAGEMENT/discussions/15), where you can ask for help about [NekoRobot](https://telegram.dog/NekoCuteBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Deploy Options</summary>
