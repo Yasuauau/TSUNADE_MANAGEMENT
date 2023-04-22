@@ -16,24 +16,16 @@ A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb dat
 - [x] Heroku Deploy
 - [x] Docker/Local Machine
 
-╘═━「 Can be found on telegram as [NekoRobot](https://telegram.dog/NekoCuteBot) 」
+╘═━「 Can be found on telegram as [NekoRobot](Mikasa_luci_ki_bot) 」
 
 ## ╔═━「 Credits 」
 The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
 This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 ### ╔═━「 Creator Info/Credits 」
-
-+ [Lovely-Prince](https://github.com/Awesome-Prince) : OWNER | DEV
-+ [AkshayRajput](https://github.com/TheHamkerCat) : ARQ MODULES
-+ [TheRealPhoenix](https://github.com/rsktg) : BASE
-+ [DragSama](https://github.com/DragSama) : ANIME
-+ [TsunayoshiSawada](https://github.com/TsunayoshiSawada) : BASE
-+ [Pokurt](https://github.com/pokurt) : WHATANIME MODULE API
-+ [Dank-del](https://github.com/Dank-del) : LEWD MODULE
-+ [InukaAsith](https://github.com/InukaAsith) : MEMES, INLINE ETC MODULES 
-+ [AyraHikari](https://github.com/AyraHikari): FED MODULE
-+ [Peaktogoo](https://github.com/peaktogoo) : FED MODULE
+   
+     
++ SAVAGEKINGDEVILL
 
 ╘═━「 Any other authorship/credits can be seen through the commits. 」
 
@@ -44,7 +36,7 @@ The Support group can be reached out to at [Programmer • Support](https://tele
 <details>
 	<summary>Deploy Options</summary>
 <a href="https://cloud.okteto.com/#/deploy?repository=https://github.com/Awesome-Prince/NekoRobot-3"><img src="https://user-images.githubusercontent.com/36935426/167272305-91fd67c9-c3fc-4b4b-8a73-c35e57c8fcc5.png" height="40"></a>
-<a href="https://heroku.com/deploy?template=https://github.com/Awesome-Prince/NekoRobot-3"><img src="https://www.herokucdn.com/deploy/button.svg" height="40"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Yasuauau/TSUNADE_MANAGEMENT"><img src="https://www.herokucdn.com/deploy/button.svg" height="40"></a>
 <a href="https://railway.app"><img src="https://railway.app/button.svg" height="40"></a>
 </details> 
 
