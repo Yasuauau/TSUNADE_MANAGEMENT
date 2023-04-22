@@ -2,8 +2,8 @@
 BSD 2-Clause License
 
 Copyright (C) 2017-2019, Paul Larsen
-Copyright (C) 2022-2023, Awesome-Prince, [ https://github.com/Awesome-Prince ]
-Copyright (c) 2022-2023, Programmer • Network, [ https://github.com/Awesome-Prince/NekoRobot-3 ]
+Copyright (C) 2022-2023, savagekingdevill, [ https://github.com/Yasuauau/TSUNADE_MANAGEMENT ]
+Copyright (c) 2022-2023, Programmer • Network, [ https://t.me/yash_update ]
 
 All rights reserved.
 
@@ -120,7 +120,7 @@ NEKO_STICKERS = (
 )
 
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/9996ec2eafdef4692102d.jpg) 」────
+────「 [{}](https://telegra.ph/file/7e9f8676e824a8230354a.jpg) 」────
 *Hola! {},*
 *Meow Meow, Don't Touch Me Without My Permission!*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -140,15 +140,15 @@ buttons = [
     [
         InlineKeyboardButton(text="📓 Guidelines", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Source 🌐", url="https://github.com/Awesome-Prince/NekoRobot-3.git"
+            text="Source 🌐", url="https://github.com/Yasuauau/TSUNADE_MANAGEMENT"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
+            text="🚑 Support", url=f"https://t.me/lucifer_hell_for_you"
         ),
         InlineKeyboardButton(
-            text="📢 Updates", url="https://telegram.dog/Programmer_Updates"
+            text="📢 Updates", url="https://t.me/yash_update"
         ),
     ],
 ]
